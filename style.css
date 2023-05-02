@@ -1,0 +1,167 @@
+.divide_col{
+    width:160px;
+    height: auto;
+    background-color: #FFFFFF;
+    padding: 10px;
+    
+}
+.div_class{
+    display: flex;
+    justify-content: center;
+
+}
+.cus_front_end{
+    display: flex;
+    justify-content: flex-start;
+    gap: 16px;
+    padding: 5px 15px 5px 30px;
+
+}
+.divide_col{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+}
+.wb_event_col_img_block1{
+    display: flex;
+    justify-content: center;
+}
+.wb_event_block1, .wb_event_block2, .wb_event_block4{
+    width: 115%;
+    position: relative;
+    left: -30px;
+}
+.wb_event_block1, .wb_event_block2{
+    box-shadow: 0px 3px 52px #0000001f;
+}
+.box1_description_row, .box2_description_row{
+    box-shadow: 0px 3px 20px #00000010;
+}
+.event_block_title{
+    font-size: 30px;
+    font-weight: 500;
+}
+.event_box_title{
+    font-size: 22px;
+    color: #02baee;
+}
+.event_box_description p{
+    padding-top: 15px;
+}
+.wb_event_block4{
+    background-color: #FFE9EC;
+    background: linear-gradient(180deg, #FFE9EC 0%, #FFF6F8 100%);
+    background-image: linear-gradient(#68cde8c4, #FFFFFF);
+    border-radius: 8px;
+    opacity: 1;
+    margin-bottom: 30px;
+}
+.wb_event_form{
+    padding: 35px;
+}
+.wb_event_form .wb_event_input {
+    border: 1px solid #D6D6D6;
+    border-radius: 30px;
+    opacity: 1;
+    color: #6F6F6F;
+    font-size: 17px;
+    height: 55px;
+}
+.wb_event_form .wb_event_label{
+    color: #222222;
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 19px;
+}
+.wb_event_form .wb_event_label > span {
+    color: red;
+    font-size: 18px;
+    margin-left: -3px;
+}
+.paynow_register_button {
+    filter: drop-shadow(0px 4px 8px rgba(1, 73, 107, 0.53));
+    border: none;
+    border-radius: 25px;
+    opacity: 1;
+    font-size: 23px;
+    color: #FFFFFF;
+    background: transparent linear-gradient(90deg, #007BB5 0%, #032B3E 100%) 0% 0% no-repeat padding-box;
+    height: 50px;
+    border-color: #0637515e;
+    font-weight: 600;
+    width: 50%;
+}
+.event_register_form_title {
+    color: #222222;
+    opacity: 1;
+    justify-content: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.wb_event_sticky_div {
+    background-color: #FFFFFF;
+    box-shadow: 0px 3px 20px #00000010;
+    padding: 37px;
+    position: sticky;
+    top: 135px;
+    margin-bottom: 55px;
+    border-radius: 8px;
+    width: 472px;
+}
+.wb_sticky_talks {
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 0px;
+    color: #222222;
+    text-transform: uppercase;
+}
+.wb_event_sticky_icon img{
+    width: 35px;
+    height: 35px;
+}
+.wb_event_sticky_payment {
+    color: #222222;
+    text-transform: capitalize;
+    opacity: 1;
+    font-weight: 500;
+    font-size: 37px;
+    text-align: center;
+    font-weight: 600;
+}
+.wb_event_sticky_btn {
+    background: transparent linear-gradient(90deg, #007BB5 0%, #032B3E 100%) 0% 0% no-repeat padding-box;
+    background-color: #808080a8;
+    filter: drop-shadow(0px 4px 8px rgba(1, 73, 107, 0.53));
+    border: none;
+    border-radius: 25px;
+    opacity: 1;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #282d252e;
+    padding: 6px;
+    color: #FFFFFF;
+    font-size: 24px;
+    border-color: #0637515e;
+    font-weight: 600;
+}
+.come_p, .lorem_p{
+    font-size: 18px;
+}
+.talks_h2{
+    font-size: 50px;
+}
+.by_p{
+    font-size: 20px;
+}
+.wb_event_sticky_check_text{
+    font-size: 20px;
+}
+
+.div_class{
+    font-size: 18px;
+}
+
+
